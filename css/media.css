@@ -1,0 +1,362 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.c_pad{
+		padding-top: 50px;
+	}
+	/*	banner start*/
+	.banner{
+		padding-bottom:50px;
+	}
+	.b_text h1 {
+	    font-size: 38px;
+	    text-align: center;
+	}
+	.b_text p {
+	    margin: 15px 0px;
+	}
+	.b_btn {
+	    padding: 12px 20px;
+	    font-size: 16px;
+	}
+/*	banner end*/
+/*memory start*/
+	.memory{
+  		padding: 30px 0;
+  	}
+	.m_text h1 {
+	    font-size: 38px;
+	}
+	.m_text p {
+	    padding: 15px 0;
+	}
+
+/*memory end*/
+/*travel start*/
+	.t_text h1 {
+	    font-size: 24px;
+	}
+/*travel end*/
+/*see start*/
+	.s_text h1 {
+	    margin: 20px 0;
+	    font-size: 35px;
+	}
+	.s_text p {
+	    font-size: 16px;
+	}
+/*see end*/
+/*blog start*/
+	
+/*blog end*/
+/*choose start*/
+	.ch_text h1 {
+	    text-align: center;
+	    margin-bottom: 30px;
+	    font-size: 35px;
+	}
+	.ch_text h2 {
+	    margin-top: 25px;
+	    font-size: 20px;
+	}
+/*choose end*/
+/*accordion start*/
+	.acco_text h1 {
+	    padding-bottom: 20px;
+	    font-size: 34px;
+	}
+	.acco_img img{
+		display: none;
+	}
+/*accordion end*/
+/*team start*/
+	.team_s {
+	    padding: 10px 3px;
+	}
+	.team_s img {
+	    height: 60px;
+	    width: 60px;
+	}
+	.team_s h2 {
+	    margin: 15px 0 5px;
+	    font-size: 17px;
+	}
+	.slick-prev:before,
+	.slick-next:before
+	{
+	    font-size: 30px;
+	}
+	.slick-prev
+	{
+	    text-align: left;
+	    left: 0px;
+	}
+	.slick-next
+	{
+	    text-align: right;
+	    right: 0px;
+	}
+/*team end*/
+/*form start*/
+.contact h1 {
+    font-size: 55px;
+}
+/*form end*/
+/*footer star*/
+	.footer h1 {
+	    font-size: 40px;	
+	}
+.footer h2{
+	text-align: center;
+}
+.footer_link{
+	margin-bottom: 20px;
+	text-align: center;
+}
+/*footer end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.c_pad{
+		padding-top: 60px;
+	}
+/*	banner start*/
+	.banner{
+		padding-bottom:60px;
+	}
+	.b_text h1 {
+	    font-size: 50px;
+	    text-align: center;
+	}
+	.b_text p {
+	    margin: 25px 40px;
+	}
+	.b_btn {
+	    padding: 12px 20px;
+	    font-size: 16px;
+	    margin-left: 40px;
+	}
+/*	banner end*/
+/*memory start*/
+	.memory{
+  		padding: 40px 0;
+  	}
+	.m_text h1 {
+	    font-size: 40px;
+	}
+	.m_text p {
+	    padding: 20px 0;
+	}
+
+/*memory end*/
+/*travel start*/
+	.t_text h1 {
+	    font-size: 20px;
+	}
+/*travel end*/
+/*see start*/
+	.s_text h1 {
+	    margin: 25px 0;
+	    font-size: 60px;
+	}
+	.s_text p {
+	    font-size: 16px;
+	}
+/*see end*/
+/*blog start*/
+	.bloger h1 {
+	    font-size: 25px;
+	}
+	.details i {
+	    margin-top: 0px;
+	    font-size: 50px;
+	}
+/*blog end*/
+/*choose start*/
+	.ch_text h1 {
+	    text-align: center;
+	    margin-bottom: 30px;
+	    font-size: 35px;
+	}
+	.ch_text h2 {
+	    margin-top: 25px;
+	    font-size: 20px;
+	}
+/*choose end*/
+/*accordion start*/
+	.acco_text h1 {
+	    padding-bottom: 20px;
+	    font-size: 60px;
+	}
+	.acco_img img{
+		display: none;
+	}
+/*accordion end*/
+/*team start*/
+	.team_s {
+	    padding: 10px 3px;
+	}
+	.team_s img {
+	    height: 60px;
+	    width: 60px;
+	}
+	.team_s h2 {
+	    margin: 15px 0 5px;
+	    font-size: 17px;
+	}
+	.slick-prev:before,
+	.slick-next:before
+	{
+	    font-size: 30px;
+	}
+/*team end*/
+/*footer start*/
+.footer_link{
+	margin-bottom: 20px;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.c_pad{
+		padding-top: 70px;
+	}
+	/*	banner start*/
+	.banner{
+		padding-bottom: 70px;
+	}
+	.b_text h1 {
+	    font-size: 35px;
+	}
+	.b_text p {
+	    margin: 25px 0;
+	}
+	.b_btn {
+	    padding: 13px 25px;
+	    font-size: 18px;
+	}
+/*banner end*/
+/*memory start*/
+	.memory{
+  		padding: 40px 0;
+  	}
+	.m_text h1 {
+	    font-size: 40px;
+	}
+	.m_text p {
+	    padding: 20px 0;
+	}
+
+/*memory end*/
+/*travel start*/
+	.t_text h1 {
+	    font-size: 28px;
+	}
+/*travel end*/
+/*see start*/
+	.s_text h1 {
+	    margin: 30px 0;
+	    font-size: 75px;
+	}
+	.s_text p {
+	    font-size: 20px;
+	}
+/*see end*/
+/*blog start*/
+	.bloger h1 {
+	    font-size: 25px;
+	}
+	.details i {
+	    margin-top: 0px;
+	    font-size: 50px;
+	}
+/*blog end*/
+/*choose start*/
+	.ch_text h1 {
+	    text-align: center;
+	    margin-bottom: 40px;
+	    font-size: 40px;
+	}
+	.ch_text h2 {
+	    margin-top: 30px;
+	    font-size: 20px;
+	}
+/*choose end*/
+/*accordion start*/
+	.acco_text h1 {
+	    padding-bottom: 30px;
+	    font-size: 67px;
+	}
+	.acco_img img{
+		display: none;
+	}
+/*accordion end*/
+/*team start*/
+	.team_s {
+	    margin: 13px;
+	    padding: 20px 10px;
+	}
+	.team_s img {
+	    height: 80px;
+	    width: 80px;
+	}
+	.team_s h2 {
+	    margin: 20px 0 10px;
+	    font-size: 22px;
+	}
+	.slick-prev:before,
+	.slick-next:before
+	{
+	    font-size: 30px;
+	}
+/*team end*/
+/*footer start*/
+.footer_link{
+	margin-bottom: 20px;
+}
+/*footer end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*	banner start*/
+	.b_text h1 {
+	    font-size: 75px;
+	}
+/*banner end*/
+/*memory start*/
+	.m_text h1 {
+	    font-size: 50px;
+	}
+	.m_text p {
+	    padding: 25px 0;
+	}
+/*memory end*/
+/*travel start*/
+	.t_text h1 {
+	    font-size: 24px;
+	}
+/*travel end*/
+/*choose start*/
+	.ch_text h1 {
+	    font-size: 50px;
+	}
+/*choose end*/
+/*accordion start*/
+	.acco_text h1 {
+	    font-size: 63px;
+	}
+/*accordion end*/
+}
+
+/*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	
+}
